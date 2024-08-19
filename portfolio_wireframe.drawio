@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.5">
+  <diagram name="Page-1" id="FcU2R1jEqoU1yKVSI9cK">
+    <mxGraphModel dx="1224" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="x8HOcmtypewlbyFpmWLk-1" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="720" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="x8HOcmtypewlbyFpmWLk-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="x8HOcmtypewlbyFpmWLk-1">
+          <mxGeometry x="80" y="120" width="560" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="x8HOcmtypewlbyFpmWLk-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="x8HOcmtypewlbyFpmWLk-1">
+          <mxGeometry x="80" y="320" width="120" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="x8HOcmtypewlbyFpmWLk-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="x8HOcmtypewlbyFpmWLk-1">
+          <mxGeometry x="314" y="320" width="120" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="x8HOcmtypewlbyFpmWLk-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="x8HOcmtypewlbyFpmWLk-1">
+          <mxGeometry x="520" y="320" width="120" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="x8HOcmtypewlbyFpmWLk-6" value="HENRY TOTTLE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="x8HOcmtypewlbyFpmWLk-1">
+          <mxGeometry x="240" y="150" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x8HOcmtypewlbyFpmWLk-7" value="Full Stack Developer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="x8HOcmtypewlbyFpmWLk-1">
+          <mxGeometry x="240" y="180" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x8HOcmtypewlbyFpmWLk-8" value="Projects" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="x8HOcmtypewlbyFpmWLk-1">
+          <mxGeometry x="110" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x8HOcmtypewlbyFpmWLk-9" value="Blog" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="x8HOcmtypewlbyFpmWLk-1">
+          <mxGeometry x="340" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x8HOcmtypewlbyFpmWLk-10" value="Contact" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="x8HOcmtypewlbyFpmWLk-1">
+          <mxGeometry x="550" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x8HOcmtypewlbyFpmWLk-11" value="Fogs when hovered over" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="x8HOcmtypewlbyFpmWLk-1">
+          <mxGeometry x="110" y="450" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

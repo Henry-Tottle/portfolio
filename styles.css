@@ -1,0 +1,46 @@
+html {
+  font-family: "New Amsterdam", sans-serif;
+}
+
+body {
+  height: 100vh;
+  background-color: #a8e3e3;
+}
+
+.hero div {
+  width: 80vw;
+  height: 15vw;
+  border: solid 1px black;
+  text-align: center;
+  margin: 10rem auto 2rem;
+  border-radius: 5px;
+  transition: background-color 2s;
+}
+.hero div:hover {
+  background-color: #3a9186;
+}
+.hero h1 {
+  padding: 30px 0;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-evenly;
+  align-content: start;
+}
+.cards div {
+  width: 15vw;
+  height: 40vh;
+  border: solid black 1px;
+  border-radius: 5px;
+  text-align: center;
+  transition: background-color 2s;
+}
+.cards div:hover {
+  background-color: #3a9186;
+}
+.cards h3 {
+  padding-top: 3rem;
+}
+
+/*# sourceMappingURL=styles.css.map */
