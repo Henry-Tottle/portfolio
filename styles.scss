@@ -42,7 +42,18 @@ body {
   div:hover {
     background-color: #3a9186;
   }
+  p {
+    transition: opacity 2s;
+
+  }
   h3 {
     padding-top: 3rem;
   }
+
+
+
+
+}
+.hidden {
+  opacity: 0;
 }
